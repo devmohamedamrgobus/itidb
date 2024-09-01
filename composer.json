@@ -1,0 +1,17 @@
+{
+    "name": "iti/db",
+    "description": "databsae lib",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Iti\\Db\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mohamed amr",
+            "email": "mohamed.amr@gobus-eg.com"
+        }
+    ],
+    "require": {}
+}
